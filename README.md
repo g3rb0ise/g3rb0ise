@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @g3rb0ise
 - 👀 I’m interested in cybersecurity
 - 📫 How to reach me :
-    - Email : dev@g3rb0ise.com
+    - Email : merlaux@g3rB0ise.com
 
 <!---
 g3rb0ise/g3rb0ise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
